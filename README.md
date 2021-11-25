@@ -1,7 +1,7 @@
 # Group-9---SWEP-Project-FE
 
 ## Description
-This is front-end codebase for `CSC Group 9 - SWEP200 project`.
+This is the front-end codebase for `CSC Group 9 - SWEP200 project`.
 
 ## Folder Structure
 - ### `/`
