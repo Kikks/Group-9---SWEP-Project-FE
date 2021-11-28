@@ -5,36 +5,38 @@
   width: max-content;
 }
 
-.path{
+.path {
   position: absolute;
 }
-svg{
+svg {
   position: absolute;
   width: max-content;
 }
 
-.svg-a{
+.svg-a {
+  /* width: 888px;
+  height: 999px; */
   position: absolute;
 }
 
-.svg-b{
+.svg-b {
   padding-top: 45px;
   padding-left: 25px;
 }
 
-.svg-c{
+.svg-c {
   padding-left: 70px;
   padding-top: 150px;
 }
 
-.svg-d{
+.svg-d {
   margin-left: 165px;
-  margin-top: 53px;
+  margin-top: 49px;
 }
-body{
- font-family: "Mulish", sans-serif;
- padding: 0px;
- margin: 0px;
+body {
+  font-family: "Mulish", sans-serif;
+  padding: 0px;
+  margin: 0px;
 }
 
 * {
@@ -51,6 +53,12 @@ body{
   grid-template-rows: auto;
   grid-column-gap: 56px;
   /* margin-bottom: 105px; */
+}
+
+input {
+  outline: none;
+  font-family: 'Mulish', sans-serif;
+  font-size: 18px;
 }
 
 .logo {
@@ -73,7 +81,7 @@ body{
   padding: 2px;
   margin-bottom: 58px;
   margin-right: 40px;
-  margin-top: 105px;
+  margin-top: 78px;
   margin-left: 109px;
 }
 
@@ -88,7 +96,7 @@ body{
   height: max-content;
   background-color: #ededed;
   border-radius: 55px;
-  box-shadow: 0px 1px 25px 1px grey;
+  box-shadow: 0px 1px 22px 0.9px #b1a9a9;
 }
 
 main {
@@ -117,7 +125,7 @@ main {
   color: #b4b4b4;
   grid-column: 2;
   margin-right: 255px;
-  width:max-content;
+  width: max-content;
   padding-bottom: 18px;
   font-family: "Mulish", sans-serif;
   font-size: 25px;
@@ -149,7 +157,7 @@ main {
 h2 {
   font-family: "Mulish", sans-serif;
 }
-.welcome{
+.welcome {
   margin-bottom: 17px;
   color: #233348;
   padding-left: 135px;
@@ -168,6 +176,7 @@ h2 {
   color: #233348;
   padding-left: 135px;
   width: max-content;
+  font-family: "Mulish", sans-serif;
   font-size: 20px;
   font-weight: 600;
 }
@@ -182,6 +191,8 @@ h2 {
   margin-bottom: 40px;
   margin-left: 135px;
   width: 507px;
+  color: #233348;
+  margin-top: 2px;
 }
 
 .last {
@@ -237,7 +248,15 @@ h2 {
   color: #233348;
 }
 
-button{
+button {
   border: none;
-  font-family: 'Mulish', sans-serif;
+  font-family: "Mulish", sans-serif;
 }
+
+.end{
+  margin-bottom: 30px;
+}
+
+/* .lower{
+  margin-bottom: 0px;
+} */
