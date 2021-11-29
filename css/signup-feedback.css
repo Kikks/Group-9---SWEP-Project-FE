@@ -1,0 +1,193 @@
+.body {
+  padding: 40px 27px 32px 47px;
+  background-color: #ffffff;
+  font-family: "Mulish", sans-serif;
+  width: max-content;
+}
+
+.path {
+  position: absolute;
+}
+svg {
+  position: absolute;
+  width: max-content;
+}
+
+.svg-a {
+  /* width: 888px;
+    height: 999px; */
+  position: absolute;
+}
+
+.svg-b {
+  padding-top: 45px;
+  padding-left: 25px;
+}
+
+.svg-c {
+  padding-left: 70px;
+  padding-top: 148px;
+}
+
+.svg-d {
+  margin-left: 165px;
+  margin-top: 20px;
+}
+body {
+  font-family: "Mulish", sans-serif;
+  padding: 0px;
+  margin: 0px;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: inherit;
+}
+
+.container {
+  padding-top: 3.185rem;
+  position: relative;
+  display: grid;
+  grid-template-columns: 567px;
+  grid-template-rows: auto;
+  grid-column-gap: 56px;
+  /* margin-bottom: 105px; */
+}
+
+input {
+  outline: none;
+  font-family: "Mulish", sans-serif;
+  font-size: 18px;
+}
+
+.logo {
+  grid-row: 1;
+  padding-left: 78px;
+  color: #233348;
+  font: 24px;
+  margin-right: 40px;
+  /* background-color: #eff6fe; */
+}
+
+.copyright {
+  position: relative;
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-size: 15px;
+}
+
+.footer-1 {
+  padding: 2px;
+  margin-bottom: 58px;
+  margin-right: 40px;
+  margin-top: 43px;
+  margin-left: 109px;
+}
+
+.all-footers {
+  display: grid;
+  grid-template-columns: max-content;
+}
+
+main {
+  padding-top: 25px;
+  width: max-content;
+  grid-column: 2;
+  margin-right: 25px;
+}
+
+h2 {
+  font-family: "Mulish", sans-serif;
+}
+
+.content-1 {
+  margin-left: 234px;
+  color: #458ff6;
+  grid-column: 1;
+  width: max-content;
+}
+.content-container {
+  display: grid;
+  height: 20px;
+  column-gap: 40px;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+.content-2 {
+  grid-column: 2;
+  border: 0px;
+  background: none;
+  color: #233348;
+  font-family: "Mulish", sans-serif;
+  font-size: 18px;
+}
+
+button {
+  border: none;
+  font-family: "Mulish", sans-serif;
+}
+
+.end {
+  margin-bottom: 30px;
+}
+
+.img {
+  margin: 135px 305px 33px;
+}
+
+.congrats {
+  width: max-content;
+  margin-left: 135px;
+  font-style: normal;
+  color: #233348;
+  font-family: "Mulish", sans-serif;
+  font-weight: 700;
+  font-size: 47.8px;
+}
+h3 {
+  font-style: normal;
+  color: #233348;
+  font-family: "Mulish", sans-serif;
+}
+
+.account {
+  margin-left: 209px;
+  font-weight: 400;
+  font-size: 25px;
+  margin-top: 12px;
+  width: max-content;
+}
+
+.continue {
+  color: #458ff6;
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 96px;
+  margin-left: 248px;
+  grid-template-columns: 2px;
+  width: max-content;
+}
+
+.line {
+  margin-top: 182px;
+  border-bottom: 1px solid;
+  color: #e5e5e5;
+}
+
+.frame {
+  position: relative;
+  display: grid;
+  grid-template-columns: 475px;
+  grid-template-rows: auto;
+  grid-column-gap: 2px;
+}
+
+.img-con {
+  grid-column: 2;
+  margin-top: 98px;
+}
+
+.signup {
+  width: max-content;
+}
