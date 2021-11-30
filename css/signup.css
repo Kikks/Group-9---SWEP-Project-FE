@@ -1,0 +1,262 @@
+.body {
+  padding: 40px 27px 32px 47px;
+  background-color: #ffffff;
+  font-family: "Mulish", sans-serif;
+  width: max-content;
+}
+
+.path {
+  position: absolute;
+}
+svg {
+  position: absolute;
+  width: max-content;
+}
+
+.svg-a {
+  /* width: 888px;
+  height: 999px; */
+  position: absolute;
+}
+
+.svg-b {
+  padding-top: 45px;
+  padding-left: 25px;
+}
+
+.svg-c {
+  padding-left: 70px;
+  padding-top: 150px;
+}
+
+.svg-d {
+  margin-left: 165px;
+  margin-top: 49px;
+}
+body {
+  font-family: "Mulish", sans-serif;
+  padding: 0px;
+  margin: 0px;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: inherit;
+}
+
+.container {
+  padding-top: 3.185rem;
+  position: relative;
+  display: grid;
+  grid-template-columns: 567px;
+  grid-template-rows: auto;
+  grid-column-gap: 56px;
+  /* margin-bottom: 105px; */
+}
+
+input {
+  outline: none;
+  font-family: 'Mulish', sans-serif;
+  font-size: 18px;
+}
+
+.logo {
+  grid-row: 1;
+  padding-left: 78px;
+  color: #233348;
+  font: 24px;
+  margin-right: 40px;
+  /* background-color: #eff6fe; */
+}
+
+.copyright {
+  position: relative;
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-size: 15px;
+}
+
+.footer-1 {
+  padding: 2px;
+  margin-bottom: 58px;
+  margin-right: 40px;
+  margin-top: 78px;
+  margin-left: 109px;
+}
+
+.all-footers {
+  display: grid;
+  grid-template-columns: max-content;
+}
+
+.signup {
+  padding-top: 24px;
+  width: max-content;
+  height: max-content;
+  background-color: #ededed;
+  border-radius: 55px;
+  box-shadow: 0px 1px 22px 0.9px #b1a9a9;
+}
+
+main {
+  padding-top: 25px;
+  width: max-content;
+  grid-column: 2;
+  margin-right: 25px;
+}
+.div-head {
+  display: grid;
+  column-gap: 50px;
+  font-weight: 600;
+}
+
+.div-head-1 {
+  padding-bottom: 18px;
+  grid-column: 1;
+  margin-left: 255px;
+  width: max-content;
+  font-family: "Mulish", sans-serif;
+  font-size: 25px;
+  color: #b4b4b4;
+}
+
+.div-head-2 {
+  color: #b4b4b4;
+  grid-column: 2;
+  margin-right: 255px;
+  width: max-content;
+  padding-bottom: 18px;
+  font-family: "Mulish", sans-serif;
+  font-size: 25px;
+}
+/* 
+.div-dash {
+  border: 2px solid;
+  width:13px;
+  position: relative;
+  color: #458ff6;
+  heigth: 5px;
+
+} */
+.--active {
+  width: max-content;
+  border-bottom: 5px solid;
+  border-color: #458ff6;
+  color: #233348;
+}
+.signup-content {
+  padding-top: 40px;
+  border-radius: 50.19px;
+  background-color: #ffffff;
+  height: max-content;
+  width: max-content;
+  display: grid;
+}
+
+h2 {
+  font-family: "Mulish", sans-serif;
+}
+.welcome {
+  margin-bottom: 17px;
+  color: #233348;
+  padding-left: 135px;
+  font-weight: 700;
+}
+
+.new-account {
+  color: #458ff6;
+  margin-bottom: 33px;
+  padding-left: 135px;
+  font-weight: 300;
+}
+
+.title {
+  padding-bottom: 1px;
+  color: #233348;
+  padding-left: 135px;
+  width: max-content;
+  font-family: "Mulish", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.underline {
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  border-bottom: 1.5px solid;
+  border-color: #b4b4b4;
+  margin-right: 135px;
+  margin-bottom: 40px;
+  margin-left: 135px;
+  width: 507px;
+  color: #233348;
+  margin-top: 2px;
+}
+
+.last {
+  margin-bottom: 27px;
+}
+
+.submit {
+  margin-bottom: 27px;
+  border-radius: 55px;
+  background-color: #458ff6;
+  padding: 13px 35px;
+  font-size: 15px;
+  font-family: "Mulish", sans-serif;
+  color: #ededed;
+  width: max-content;
+  margin-left: 335px;
+}
+
+.line {
+  border-bottom: 1px solid;
+  width: 665px;
+  margin-left: 53px;
+  color: #ededed;
+  margin-bottom: 6px;
+}
+
+.content-1 {
+  margin-left: 234px;
+  color: #458ff6;
+  grid-column: 1;
+  width: max-content;
+}
+.content-container {
+  display: grid;
+  height: 20px;
+  column-gap: 40px;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+.content-2 {
+  grid-column: 2;
+  border: 0px;
+  background: none;
+  color: #233348;
+  font-family: "Mulish", sans-serif;
+  font-size: 18px;
+}
+
+.terms {
+  margin-left: 277px;
+  font-size: 15px;
+  margin-bottom: 20px;
+  color: #233348;
+}
+
+button {
+  border: none;
+  font-family: "Mulish", sans-serif;
+}
+
+.end{
+  margin-bottom: 30px;
+}
+
+/* .lower{
+  margin-bottom: 0px;
+} */
